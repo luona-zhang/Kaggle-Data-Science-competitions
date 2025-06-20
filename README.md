@@ -1,7 +1,6 @@
 # Kaggle-Data-Science-competitions
 
-This repository contains Jupyter notebooks written using datasets provided by Kaggle (https://www.kaggle.com/).
-
+This repository contains Jupyter notebooks written using datasets found on Kaggle.
 
 ### Citations
 Anna Montoya and DataCanary. House Prices - Advanced Regression Techniques.
