@@ -7,3 +7,5 @@ This repository contains Jupyter notebooks written using datasets found on Kaggl
   https://kaggle.com/competitions/house-prices-advanced-regression-techniques, 2016. Kaggle
 
 - Will Cukierski. Titanic - Machine Learning from Disaster. https://kaggle.com/competitions/titanic, 2012. Kaggle.
+
+- Alexis Cook, DanB, inversion, and Ryan Holbrook. Store Sales - Time Series Forecasting. https://kaggle.com/competitions/store-sales-time-series-forecasting, 2021. Kaggle.
